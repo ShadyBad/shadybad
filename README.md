@@ -1,12 +1,12 @@
 ## 🛠️ Core Competencies:
-- **Programming Languages**: Python, SQL, C++
-- **AI Libraries**: TensorFlow, NumPy, Keras, SciPy, Seaborn, Scikit-learn, Plotly, Matplotlib, PyTorch, Pandas, Polars
-- **Math Proficiency**: Linear Algebra, Calculus, Probability & Statistics
-- **Deployment Tools**: Docker, Kubernetes, AWS SageMaker, Vertex AI, SciPy
-- **Specializations**: Natural Language Processing, GANs, Computer Vision, Reinforcement Learning
+- 🔍 **Programming Languages**: Python, SQL, C++
+- 💾 **AI Libraries**: TensorFlow, NumPy, Keras, SciPy, Seaborn, Scikit-learn, Plotly, Matplotlib, PyTorch, Pandas, Polars
+- 📈 **Math Proficiency**: Linear Algebra, Calculus, Probability & Statistics, Gradient Descent, Eigenvalues, Maxtrix Transformations
+- 🚀 **Deployment Tools**: Docker, Kubernetes, AWS SageMaker, Vertex AI, SciPy
+- 🌟 **Specializations**: Natural Language Processing, GANs, Computer Vision, Reinforcement Learning
 
 ## 🎯 My Vision:
-I’m inspired by companies like NVIDIA, Apple, and OpenAI that relentlessly innovate in AI and ML to redefine the future of human-computer interaction. I aspire to contribute to projects where technological sophistication meets societal impact—be it through advancing generative AI, enabling real-time inference, or revolutionizing autonomous systems.
+I’m inspired by companies that relentlessly innovate in AI and ML to redefine the future of human-computer interaction. I aspire to contribute to projects where technological sophistication meets societal impact—be it through advancing generative AI, enabling real-time inference, or revolutionizing autonomous systems.
 
 ## 📬 Let’s Connect:
 📧 **Email**: bpshay13@gmail.com      

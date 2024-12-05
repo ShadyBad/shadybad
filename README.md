@@ -5,7 +5,7 @@
 </a> &nbsp;
 
 <a href="https://www.linkedin.com/in/brandonpshay/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white">
 </a> &nbsp;
     
 <a href="mailto:bpshay13@gmail.com">
@@ -15,11 +15,11 @@
 </p>
 
 <p align="center"> 
-  <img height="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitababko&theme=react" />
+    
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadybad&show_icons=true&theme=react">
   
 </p>
-
 
 Hi! I'm Brandon, an **IT Systems Engineer** at [Alation](https://www.alation.com) working on engineering and fully automating IT processes and systems. I’m inspired by companies that relentlessly innovate in AI and ML to redefine the future of human-computer interaction. I'm ferociously learning to become an AIML Engineer. I aspire to contribute to projects where technological sophistication meets societal impact—be it through advancing generative AI, enabling real-time inference, or revolutionizing autonomous systems. You can see my Advanced AIML Roadmap [here](https://docs.google.com/spreadsheets/d/1q5iVBfHr6-HQcOM_mwdrbnFgEtBaE7uYr9wKR5OvOlQ/edit?usp=sharing).
 

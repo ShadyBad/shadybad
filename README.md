@@ -16,8 +16,7 @@
 
 <p align="center"> 
     
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadybad&show_icons=true&theme=react">
+  <img src ="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM3OTAzMjIsIm5iZiI6MTczMzc5MDAyMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEwVDAwMjAyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2MWNiZjU3YmQ2NGExYjA1MWJkYmE2MTE0MzQ2YjY3Y2ExNDFmNTIzNjEyZDdjNWU0NzI0N2Y5MmYzZWRjN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aYRT_4_OuHWYyU4L0GrdPrm4vjP8jcS-HDPYpbss4tg">
   
 </p>
 
@@ -46,5 +45,7 @@ Hi! I'm Brandon, an **IT Systems Engineer** at [Alation](https://www.alation.com
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?logo=kubernetes&style=flat)&nbsp;
 
 <p align="center">
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+    <img src="https://github-readme-stats.vercel.app/api?username=shadybad&show_icons=true&theme=react">
     <img width="auto" src ="https://leetcard.jacoblin.cool/shadybad?ext=heatmap&theme=nord">
 </p>

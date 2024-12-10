@@ -40,8 +40,8 @@ Hi! I'm Brandon, an **IT Systems Engineer** at [Alation](https://www.alation.com
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-555?logo=apachespark&style=flat)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-555?logo=plotly&style=flat)&nbsp;
 - **Cloud Infrastructure**:
-![AWS](https://img.shields.io/badge/-Amazon_Web_Services-555?logo=amazon-web-services&style=flat)&nbsp;
-![GCP](https://img.shields.io/badge/-Google_Cloud-555?logo=googlecloud&style=flat)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-555?logo=amazon-web-services&style=flat)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-555?logo=googlecloud&style=flat)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-555?logo=docker&style=flat)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?logo=kubernetes&style=flat)&nbsp;
 

@@ -20,7 +20,7 @@
   
 </p>
 
-Hi! I'm Brandon, an **IT Systems Engineer** at [Alation](https://www.alation.com) working on engineering and fully automating IT processes and systems. I’m inspired by companies that relentlessly innovate in AI and ML to redefine the future of human-computer interaction. I'm ferociously learning to become an AIML Engineer. I aspire to contribute to projects where technological sophistication meets societal impact—be it through advancing generative AI, enabling real-time inference, or revolutionizing autonomous systems. You can see my Advanced AIML Roadmap [here](https://docs.google.com/spreadsheets/d/1q5iVBfHr6-HQcOM_mwdrbnFgEtBaE7uYr9wKR5OvOlQ/edit?usp=sharing).
+Hi! I'm Brandon, an **IT Systems Engineer** working on engineering and fully automating IT processes and systems. I’m inspired by companies that relentlessly innovate in AI and ML to redefine the future of human-computer interaction. I'm ferociously learning to become an AIML Engineer. I aspire to contribute to projects where technological sophistication meets societal impact—be it through advancing generative AI, enabling real-time inference, or revolutionizing autonomous systems. You can see my Advanced AIML Roadmap [here](https://docs.google.com/spreadsheets/d/1q5iVBfHr6-HQcOM_mwdrbnFgEtBaE7uYr9wKR5OvOlQ/edit?usp=sharing).
 
 <p align="left">
 </p>

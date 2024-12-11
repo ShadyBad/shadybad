@@ -45,7 +45,7 @@ Hi! I'm Brandon, an **IT Systems Engineer** at [Alation](https://www.alation.com
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?logo=kubernetes&style=flat)&nbsp;
 
 <p align="center">
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-    <img src="https://github-readme-stats.vercel.app/api?username=shadybad&show_icons=true&theme=react">
+    <img src ="http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShadyBad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+    <img src="http://github-readme-stats-sigma-five.vercel.app/api?username=ShadyBad&show_icons=true&theme=react">
     <img width="auto" src ="https://leetcard.jacoblin.cool/shadybad?ext=heatmap&theme=nord">
 </p>

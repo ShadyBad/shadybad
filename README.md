@@ -26,7 +26,7 @@ Hi! I'm Brandon, an **IT Systems Engineer** working on engineering and fully aut
 </p>
 
 ## 🛠️ Tech Stack
-- **Machine Learning Frameworks**:
+- **Machine/Deep Learning Frameworks**:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-555?logo=tensorflow&style=flat)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-555?logo=pytorch&style=flat)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-555?logo=scikit-learn&style=flat)&nbsp;

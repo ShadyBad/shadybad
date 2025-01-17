@@ -59,11 +59,3 @@
 <p align="center">
   <img width="auto" src="https://leetcard.jacoblin.cool/shadybad?ext=heatmap&theme=nord" alt="LeetCode Stats">
 </p>
-
----
-- **LinkedIn**: [Brandon Shay](https://www.linkedin.com/in/brandonpshay/)
-- **GitHub**: [ShadyBad](https://github.com/shadybad)
-
----
-
-<p align="center">✨ Let's build the future together. ✨</p>

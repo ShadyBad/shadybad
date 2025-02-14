@@ -56,6 +56,3 @@
 <p align="center">
   <img width="auto" src="http://github-readme-stats-sigma-five.vercel.app/api?username=ShadyBad&show_icons=true&theme=react" alt="GitHub Stats">
 </p>
-<p align="center">
-  <img width="auto" src="https://leetcard.jacoblin.cool/shadybad?ext=heatmap&theme=nord" alt="LeetCode Stats">
-</p>

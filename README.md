@@ -16,10 +16,10 @@
 
 <h1 align="center">👋 Hi, I'm Brandon!</h1>
 <p align="center">
-  I'm an <strong>IT Systems Engineer</strong> focused on engineering and automating IT processes and systems. I'm currently on a mission to become an <strong>AI/ML Engineer</strong>, driven by my passion for innovation, generative AI, and societal impact.
+  I'm a <strong>Data Scientist</strong> focused on Statistical Inference and Machine Learning. I'm on a mission driven by my passion for innovation and generative AI.
 </p>
 <p align="center">
-  Check out my <a href="https://docs.google.com/spreadsheets/d/1q5iVBfHr6-HQcOM_mwdrbnFgEtBaE7uYr9wKR5OvOlQ/edit?usp=sharing"><strong>Advanced AI/ML Roadmap</strong></a>.
+  Check out my <a href="https://docs.google.com/spreadsheets/d/1q5iVBfHr6-HQcOM_mwdrbnFgEtBaE7uYr9wKR5OvOlQ/edit?usp=sharing"><strong>Data Scientist Learning Roadmap</strong></a>.
 </p>
 
 ## 🚀 **About Me**

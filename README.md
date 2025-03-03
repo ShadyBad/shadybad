@@ -16,10 +16,7 @@
 
 <h1 align="center">👋 Hi, I'm Brandon!</h1>
 <p align="center">
-  I'm a <strong>Data Scientist</strong> focused on Statistical Inference and Machine Learning. I'm on a mission driven by my passion for innovation and generative AI.
-</p>
-<p align="center">
-  Check out my <a href="https://docs.google.com/spreadsheets/d/1q5iVBfHr6-HQcOM_mwdrbnFgEtBaE7uYr9wKR5OvOlQ/edit?usp=sharing"><strong>Data Scientist Learning Roadmap</strong></a>.
+  I'm a <strong>Machine Learning Engineer</strong> focused on Natural Language. I'm on a mission driven by my passion for innovation and generative AI.
 </p>
 
 ## 🚀 **About Me**

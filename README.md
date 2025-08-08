@@ -104,14 +104,12 @@ I'm always eager to learn from others and collaborate on interesting projects. W
 
 Feel free to reach out! I'm particularly interested in:
 - Open-source contributions
-- Study groups or pair programming sessions
 - Feedback on my projects and code
 - Opportunities to apply ML to real-world problems
 
 ## 📫 **How to Reach Me**
 
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/brandonpshay/)
-- 📧 Email me at [bpshay13@gmail.com](mailto:bpshay13@gmail.com)
 - 🐱 Check out my repositories below
 
 ---

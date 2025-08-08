@@ -16,40 +16,106 @@
 
 <h1 align="center">👋 Hi, I'm Brandon!</h1>
 <p align="center">
-  I'm a <strong>Machine Learning Engineer</strong> focused on Natural Language. I'm on a mission driven by my passion for innovation and generative AI.
+  <strong>Machine Learning Engineer | Specializing in NLP & AI Solutions</strong><br>
+  Passionate about leveraging machine learning to create meaningful impact
 </p>
 
 ## 🚀 **About Me**
-- 🌟 Inspired by companies advancing AI/ML to redefine human-computer interaction.
-- 🌍 Passionate about merging technology with societal impact.
-- 💡 Focus areas: Generative AI, real-time inference, autonomous systems.
+- 🌱 Currently deepening my knowledge in machine learning and natural language processing
+- 📚 Exploring generative AI applications and building practical projects to solidify concepts
+- 🔭 Working on personal ML projects to gain hands-on experience with real-world data
+- 👯 Open to collaborating on beginner-friendly ML projects and learning together
+- 💡 Passionate about using technology to create positive societal impact
 
-## 🛠️ **Tech Stack**
-### **Machine/Deep Learning Frameworks**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-555?logo=tensorflow&style=flat)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-555?logo=pytorch&style=flat)&nbsp;
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-555?logo=scikit-learn&style=flat)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-555?logo=keras&style=flat)&nbsp;
-![Hugging Face](https://img.shields.io/badge/-Hugging_face-555?logo=huggingface&style=flat)&nbsp;
+## 🛠️ **Technical Skills**
 
-### **Data Handling, Visualization, and Reporting**
-![pandas](https://img.shields.io/badge/-pandas-555?logo=pandas&style=flat)&nbsp;
-![Polars](https://img.shields.io/badge/-Polars-555?logo=polars&style=flat)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-555?logo=numpy&style=flat)&nbsp;
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-555?logo=apachespark&style=flat)&nbsp;
-![Plotly](https://img.shields.io/badge/-Plotly-555?logo=plotly&style=flat)&nbsp;
+### **Currently Learning & Practicing**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat)&nbsp;
 
-### **Cloud Infrastructure**
-![AWS](https://img.shields.io/badge/-AWS-555?logo=amazon-web-services&style=flat)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-555?logo=googlecloud&style=flat)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?logo=docker&style=flat)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?logo=kubernetes&style=flat)&nbsp;
+### **Familiar With**
+![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)&nbsp;
 
-## 📊 **Stats and Highlights**
+### **Exploring**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)&nbsp;
+
+## 🚀 **Featured Projects**
+
+### 🤖 [NotionIQ](https://github.com/shadybad/notionIQ)
+*AI-powered Notion workspace analyzer that provides intelligent insights and recommendations*
+- **Tech Stack:** Python, Claude AI API, Rich CLI, Caching
+- **Key Features:** Workspace analysis, AI-driven insights, performance optimization
+- **Learning Outcome:** API integration, working with LLMs, building practical AI tools
+
+### 📊 [Intrinsic Value Calculator](https://github.com/shadybad/intrinsic-value-calculator)
+*Financial analysis tool for calculating the intrinsic value of stocks using fundamental analysis*
+- **Tech Stack:** Python, Financial APIs, Data Analysis
+- **Key Features:** DCF modeling, financial metrics calculation, investment analysis
+- **Learning Outcome:** Data processing, financial algorithms, API consumption
+
+### 🎯 [Python Algorithms](https://github.com/shadybad/python_algorithms)
+*Collection of algorithm implementations and problem-solving exercises in Python*
+- **Tech Stack:** Python, Data Structures, Algorithms
+- **Key Features:** Classic algorithms, optimization problems, coding challenges
+- **Learning Outcome:** Algorithmic thinking, code optimization, problem-solving patterns
+
+> 📌 **Note:** These are learning projects where I'm exploring different aspects of software development and ML. I'm always open to feedback and suggestions for improvement!
+
+## 📚 **My Learning Journey**
+
+### 🎯 **Current Focus**
+- Deep diving into transformer architectures and attention mechanisms
+- Building end-to-end ML pipelines with proper versioning and monitoring
+- Exploring prompt engineering and LLM fine-tuning techniques
+
+### ✅ **Recently Completed**
+- Fundamentals of neural networks and backpropagation
+- Data preprocessing and feature engineering techniques
+- Basic NLP tasks (sentiment analysis, text classification)
+
+### 🚀 **Next Goals**
+- Deploy a model to production using cloud services
+- Contribute to an open-source ML project
+- Build a complete MLOps pipeline
+
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <img width="auto" src="http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShadyBad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages">
+  <img width="48%" src="http://github-readme-stats-sigma-five.vercel.app/api?username=shadybad&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">
+  <img width="48%" src="http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true" alt="Top Languages">
 </p>
+
+## 🤝 **Let's Connect!**
+
+I'm always eager to learn from others and collaborate on interesting projects. Whether you're:
+- A fellow learner wanting to work on ML projects together
+- Someone with experience willing to mentor or provide guidance
+- Looking for someone enthusiastic to contribute to your project
+
+Feel free to reach out! I'm particularly interested in:
+- Open-source contributions
+- Study groups or pair programming sessions
+- Feedback on my projects and code
+- Opportunities to apply ML to real-world problems
+
+## 📫 **How to Reach Me**
+
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/brandonpshay/)
+- 📧 Email me at [bpshay13@gmail.com](mailto:bpshay13@gmail.com)
+- 🐱 Check out my repositories below
+
+---
+
 <p align="center">
-  <img width="auto" src="http://github-readme-stats-sigma-five.vercel.app/api?username=ShadyBad&show_icons=true&theme=react" alt="GitHub Stats">
+  <i>💡 "The expert in anything was once a beginner" - Always learning, always growing!</i>
 </p>

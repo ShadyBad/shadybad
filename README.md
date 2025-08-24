@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/shadybad">
     <img src="https://img.shields.io/github/followers/shadybad?label=Follow&style=social">
-  </a> &nbsp;
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/brandonpshay/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white">
-  </a> &nbsp;
+  </a>&nbsp;
   <a href="mailto:bpshay13@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
@@ -24,19 +24,18 @@
 - 🌱 Currently deepening my knowledge in machine learning and natural language processing
 - 📚 Exploring generative AI applications and building practical projects to solidify concepts
 - 🔭 Working on personal ML projects to gain hands-on experience with real-world data
-- 👯 Open to collaborating on beginner-friendly ML projects and learning together
 - 💡 Passionate about using technology to create positive societal impact
 
 ## 🛠️ **Technical Skills**
 
 ### **Currently Learning & Practicing**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)&nbsp;
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat)&nbsp;
 
 ### **Familiar With**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)&nbsp;
@@ -78,11 +77,6 @@
 - Building end-to-end ML pipelines with proper versioning and monitoring
 - Exploring prompt engineering and LLM fine-tuning techniques
 
-### ✅ **Recently Completed**
-- Fundamentals of neural networks and backpropagation
-- Data preprocessing and feature engineering techniques
-- Basic NLP tasks (sentiment analysis, text classification)
-
 ### 🚀 **Next Goals**
 - Deploy a model to production using cloud services
 - Contribute to an open-source ML project
@@ -95,25 +89,7 @@
   <img width="48%" src="http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true" alt="Top Languages">
 </p>
 
-## 🤝 **Let's Connect!**
-
-I'm always eager to learn from others and collaborate on interesting projects. Whether you're:
-- A fellow learner wanting to work on ML projects together
-- Someone with experience willing to mentor or provide guidance
-- Looking for someone enthusiastic to contribute to your project
-
-Feel free to reach out! I'm particularly interested in:
-- Open-source contributions
-- Feedback on my projects and code
-- Opportunities to apply ML to real-world problems
-
 ## 📫 **How to Reach Me**
 
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/brandonpshay/)
-- 🐱 Check out my repositories below
-
----
-
-<p align="center">
-  <i>💡 "The expert in anything was once a beginner" - Always learning, always growing!</i>
-</p>
+- Check out my repositories below

@@ -40,7 +40,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)&nbsp;
 
 ### **Exploring**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)&nbsp;
@@ -49,12 +48,6 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)&nbsp;
 
 ## 🚀 **Featured Projects**
-
-### 🤖 [NotionIQ](https://github.com/shadybad/notionIQ)
-*AI-powered Notion workspace analyzer that provides intelligent insights and recommendations*
-- **Tech Stack:** Python, Claude AI API, Rich CLI, Caching
-- **Key Features:** Workspace analysis, AI-driven insights, performance optimization
-- **Learning Outcome:** API integration, working with LLMs, building practical AI tools
 
 ### 📊 [Intrinsic Value Calculator](https://github.com/shadybad/intrinsic-value-calculator)
 *Financial analysis tool for calculating the intrinsic value of stocks using fundamental analysis*

@@ -18,8 +18,6 @@
   From LLM-powered workspace audits to real-time fantasy draft boards, I move fast, validate rigorously, and leave behind reliable tooling.
 </p>
 
-## 🚀 Shipping Now
-
 ### [NotionIQ](https://github.com/ShadyBad/notionIQ)
 
 <picture>
@@ -53,14 +51,14 @@
 - Parallelized DCF modeling with automated growth/risk adjustments, validation, and error handling.
 - Outputs investor-ready CSV/JSON reports for dashboards, APIs, and research notebooks.
 
-## 🛡 Automation & IT Ops
+## Automation & IT Ops
 
 - **[IT Automation Tools](https://github.com/ShadyBad/it-automation-tools)** — enterprise-ready scripts for Windows and macOS.
   - PowerShell and Bash remediation utilities for certificate trust (Zscaler), Microsoft Edge Framework removal, and restart governance with user-safe prompts.
   - High-performance JSON ➝ CSV converter powered by Polars, plus audit-grade logging and rollback guidance.
   - Built for MDM pipelines like Intune, SCCM, and Kandji with minimal dependencies and defensive error handling.
 
-## 🧠 Learning Lab
+## Learning Lab
 
 - **[python_algorithms](https://github.com/ShadyBad/python_algorithms)** — NeetCode-inspired DSA playground.
   - Type-hinted solutions annotated with time/space complexity and backed by pytest coverage.
@@ -68,7 +66,7 @@
 
 - Experimenting with LLM fine-tuning, prompt engineering, Streamlit dashboards, FastAPI services, Docker/AWS deployments, and the MLOps practices that tie them together.
 
-## 🧰 Toolbox
+## Toolbox
 
 **AI & Data**
 
@@ -100,14 +98,14 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Observability](https://img.shields.io/badge/-Logging_%26_Metrics-55606E?style=flat)
 
-## 📊 GitHub Signals
+## GitHub Signals
 
 <p align="center">
   <img width="48%" src="http://github-readme-stats-sigma-five.vercel.app/api?username=shadybad&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">
   <img width="48%" src="http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true" alt="Top Languages">
 </p>
 
-## 🤝 Let's Build
+## Let's Build
 
 - Connect on [LinkedIn](https://www.linkedin.com/in/brandonpshay/) for collaborations or opportunities.
 - Browse the rest of the repos below—PRs, ideas, and feedback are always welcome.

@@ -10,11 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/ShadyBad/shadybad/blob/main/assets/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Animated Banner">
-</p>
-
-<h1 align="center">Brandon Shay</h1>
+<h1 align="center">Hi, I'm Brandon</h1>
 <p align="center">
   Machine Learning Engineer crafting AI copilots, intelligent analytics, and enterprise automation that teams can ship with confidence.
 </p>
@@ -74,7 +70,8 @@
 
 ## 🧰 Toolbox
 
-- **AI & Data**  
+**AI & Data**
+
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
   ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
@@ -84,7 +81,8 @@
   ![Polars](https://img.shields.io/badge/-Polars-CD342C?style=flat)
   ![yfinance](https://img.shields.io/badge/-yfinance-6001D2?logo=yahoo&logoColor=white&style=flat)
 
-- **Automation & Platforms**  
+**Automation & Platforms**
+
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
@@ -93,19 +91,14 @@
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 
-- **Developer Flow**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
-  ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white&style=flat)
-  ![Make](https://img.shields.io/badge/-Make-000000?style=flat)
-  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-  ![Observability](https://img.shields.io/badge/-Logging_%26_Metrics-55606E?style=flat)
+**Developer Flow**
 
-## 🧭 How I Build
-
-- **Clarity first**: Opinionated quickstarts, environment templates, and CLI helpers so teams can get value in minutes.
-- **Reliability by design**: Smart caching, graceful fallbacks, and detailed logging—from API-heavy LLM workflows to enterprise patching scripts.
-- **Continuous learning**: Roadmaps that prioritize testing, security, and performance turn prototypes into polished products.
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white&style=flat)
+![Make](https://img.shields.io/badge/-Make-000000?style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Observability](https://img.shields.io/badge/-Logging_%26_Metrics-55606E?style=flat)
 
 ## 📊 GitHub Signals
 
@@ -117,5 +110,4 @@
 ## 🤝 Let's Build
 
 - Connect on [LinkedIn](https://www.linkedin.com/in/brandonpshay/) for collaborations or opportunities.
-- Email [bpshay13@gmail.com](mailto:bpshay13@gmail.com) if you're exploring AI tooling, sports analytics, or enterprise automation.
 - Browse the rest of the repos below—PRs, ideas, and feedback are always welcome.

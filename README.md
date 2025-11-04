@@ -10,7 +10,6 @@
   </a>
 </p>
 
-<h1 align="center">Brandon Shay — AI Engineer</h1>
 <p align="center">
   I build AI copilots, intelligent analytics, and automation that ship.<br/>
   Pragmatic systems, clean interfaces, measurable outcomes.
@@ -20,14 +19,10 @@
   <em>Recent work:</em> LLM workspace audits • consensus draft analytics • live‑market valuation pipelines
 </p>
 
----
-
 **What I Do**
 - AI copilots that take action (multi‑provider, safe fallbacks, observability)
 - Decision‑support analytics (aggregation, ranking, reporting, exports)
 - Production ML/MLOps (containers, CI, metrics, reproducible pipelines)
-
----
 
 **Selected Work**
 
@@ -64,15 +59,11 @@
 - Impact → Investor‑ready CSV/JSON outputs for dashboards and research.
 - Docs → See case study below.
 
----
-
 **Operating Principles**
 - Speed with safety: fast loops, strong guards, reversible changes.
 - Observability first: logs, metrics, JSON artifacts; decisions are inspectable.
 - Simplicity scales: clear boundaries, predictable deployments.
 - User empathy: defaults that work, frictionless installs, readable reports.
-
----
 
 **Writing & Resources**
 - Academy Orientation — docs/academy/orientation.md
@@ -97,14 +88,10 @@ Dev Flow: Git • GitHub Actions • pytest • Make • VS Code
   </p>
 </details>
 
----
-
 **Let’s Build**
 - Email: bpshay13@gmail.com
 - LinkedIn: linkedin.com/in/brandonpshay/
 - Open to full‑time roles and selective consulting.
-
----
 
 <h3 id="case-studies">Case Studies</h3>
 - NotionIQ — docs/case-studies/notioniq.md

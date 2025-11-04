@@ -1,111 +1,112 @@
 <p align="center">
-  <a href="https://github.com/shadybad">
-    <img src="https://img.shields.io/github/followers/shadybad?label=Follow&style=social">
-  </a>&nbsp;
   <a href="https://www.linkedin.com/in/brandonpshay/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-14B8A6?labelColor=0F172A&logo=linkedin&logoColor=white&style=flat">
   </a>&nbsp;
   <a href="mailto:bpshay13@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-bpshay13%40gmail.com-14B8A6?labelColor=0F172A&logo=gmail&logoColor=white&style=flat">
+  </a>&nbsp;
+  <a href="https://github.com/shadybad">
+    <img src="https://img.shields.io/github/followers/shadybad?label=Follow&style=social" alt="GitHub Followers">
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Brandon</h1>
+<h1 align="center">Brandon Shay — AI Engineer</h1>
 <p align="center">
-  Machine Learning Engineer crafting AI copilots, intelligent analytics, and enterprise automation that teams can ship with confidence.
-</p>
-<p align="center">
-  From LLM-powered workspace audits to real-time fantasy draft boards, I move fast, validate rigorously, and leave behind reliable tooling.
+  I build AI copilots, intelligent analytics, and automation that ship.<br/>
+  Pragmatic systems, clean interfaces, measurable outcomes.
 </p>
 
-### [NotionIQ](https://github.com/ShadyBad/notionIQ)
+<p align="center">
+  <em>Recent work:</em> LLM workspace audits • consensus draft analytics • live‑market valuation pipelines
+</p>
 
+---
+
+**What I Do**
+- AI copilots that take action (multi‑provider, safe fallbacks, observability)
+- Decision‑support analytics (aggregation, ranking, reporting, exports)
+- Production ML/MLOps (containers, CI, metrics, reproducible pipelines)
+
+---
+
+**Selected Work**
+
+<a href="https://github.com/ShadyBad/notionIQ"><h3>NotionIQ — LLM Workspace Auditor</h3></a>
 <picture>
   <source srcset="assets/notioniq-demo.gif" type="image/gif">
-  <img src="assets/notioniq-demo.png" alt="Minimalist card showing NotionIQ highlights: multi-provider orchestration, health metrics, zero-config quickstart" width="100%" loading="lazy">
+  <img src="assets/notioniq-demo.png" alt="NotionIQ — multi‑provider orchestration, health metrics, JSON reporting" width="100%" loading="lazy">
 </picture>
 
-- Full workspace, page, inbox, and database scanning modes with deep health metrics and actionable playbooks.
-- Claude, ChatGPT, and Gemini orchestration with automatic provider selection, zero-config quickstart, and smart fallbacks.
-- Detailed JSON reporting, confidence-scored recommendations, and caching that cuts API spend by up to 80%.
+- Problem → Fragmented pages, inbox bloat, duplicative databases slow teams.
+- Approach → Multi‑provider LLM orchestration (Claude/GPT/Gemini), deep health metrics, JSON reports.
+- Impact → Actionable playbooks; cached runs cut API spend significantly.
+- Docs → See case study below.
 
-### [Fantasy Football Draft Tools](https://github.com/ShadyBad/ff_draft_tools)
-
+<a href="https://github.com/ShadyBad/ff_draft_tools"><h3>Fantasy Draft Tools — Consensus + VBD Engine</h3></a>
 <picture>
   <source srcset="assets/ff-draft-tools-demo.gif" type="image/gif">
-  <img src="assets/ff-draft-tools-demo.png" alt="Minimalist card showing Fantasy Draft Tools focus: multi-source aggregation, VBD logic, export suite" width="100%" loading="lazy">
+  <img src="assets/ff-draft-tools-demo.png" alt="Fantasy Draft Tools — multi‑source aggregation, VBD logic, exports" width="100%" loading="lazy">
 </picture>
 
-- Aggregates rankings from FantasyPros, ESPN, Yahoo, NFL.com, and CBS to build consensus boards and position tiers.
-- Advanced Value-Based Drafting (VOLS, VORP, BEER) with cross-positional comparisons and customizable league presets.
-- Google Sheets and CSV exports, offline-ready caching, and Make-powered workflows that keep draft day calm.
+- Problem → Fragmented rankings and noisy advice; hard cross‑positional calls.
+- Approach → Aggregates 5+ sources, VBD (VOLS/VORP/BEER), presets, offline caching.
+- Impact → Calm draft day with reproducible boards + Sheets/CSV exports.
+- Docs → See case study below.
 
-### [Intrinsic Value Calculator](https://github.com/ShadyBad/intrinsic-value-calculator)
-
+<a href="https://github.com/ShadyBad/intrinsic-value-calculator"><h3>Intrinsic Value Calculator — Live DCF at Scale</h3></a>
 <picture>
   <source srcset="assets/intrinsic-value-demo.gif" type="image/gif">
-  <img src="assets/intrinsic-value-demo.png" alt="Minimalist card showing Intrinsic Value Calculator pillars: live data ingestion, parallel valuation, investor reports" width="100%" loading="lazy">
+  <img src="assets/intrinsic-value-demo.png" alt="Intrinsic Value Calculator — live ingestion, parallel valuation, investor reports" width="100%" loading="lazy">
 </picture>
 
-- Pulls live market inputs through Yahoo Finance and risk-free rates via the FRED API.
-- Parallelized DCF modeling with automated growth/risk adjustments, validation, and error handling.
-- Outputs investor-ready CSV/JSON reports for dashboards, APIs, and research notebooks.
+- Problem → Ad‑hoc valuations lack consistency and auditability.
+- Approach → Live data (Yahoo, FRED), parallelized DCF, risk/growth adjustments.
+- Impact → Investor‑ready CSV/JSON outputs for dashboards and research.
+- Docs → See case study below.
 
-## Automation & IT Ops
+---
 
-- **[IT Automation Tools](https://github.com/ShadyBad/it-automation-tools)** — enterprise-ready scripts for Windows and macOS.
-  - PowerShell and Bash remediation utilities for certificate trust (Zscaler), Microsoft Edge Framework removal, and restart governance with user-safe prompts.
-  - High-performance JSON ➝ CSV converter powered by Polars, plus audit-grade logging and rollback guidance.
-  - Built for MDM pipelines like Intune, SCCM, and Kandji with minimal dependencies and defensive error handling.
+**Operating Principles**
+- Speed with safety: fast loops, strong guards, reversible changes.
+- Observability first: logs, metrics, JSON artifacts; decisions are inspectable.
+- Simplicity scales: clear boundaries, predictable deployments.
+- User empathy: defaults that work, frictionless installs, readable reports.
 
-## Learning Lab
+---
 
-- **[python_algorithms](https://github.com/ShadyBad/python_algorithms)** — NeetCode-inspired DSA playground.
-  - Type-hinted solutions annotated with time/space complexity and backed by pytest coverage.
-  - Keeps core problem-solving muscles sharp for everything from ML preprocessing to automation scripts.
+**Writing & Resources**
+- Academy Orientation — docs/academy/orientation.md
+- Command‑Line Toolkit — docs/playbooks/command-line-toolkit.md
+- IDE & Environment Verification — docs/playbooks/ide-setup.md
+- Mathematics for AI — docs/foundations/math-for-ai.md
+- Python Essentials — docs/foundations/python-essentials.md
 
-- Experimenting with LLM fine-tuning, prompt engineering, Streamlit dashboards, FastAPI services, Docker/AWS deployments, and the MLOps practices that tie them together.
+<details>
+  <summary><strong>Toolbox</strong> (click to expand)</summary>
 
-## Toolbox
+AI & Data: PyTorch • scikit‑learn • Hugging Face • pandas • NumPy • Polars  
+Platforms: Python • PowerShell • Bash • FastAPI • Streamlit • Docker • AWS  
+Dev Flow: Git • GitHub Actions • pytest • Make • VS Code
+</details>
 
-**AI & Data**
+<details>
+  <summary><strong>GitHub Signals</strong> (click to expand)</summary>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shadybad&show_icons=true&bg_color=00000000&title_color=14B8A6&text_color=CBD5E1&icon_color=F59E0B&hide_border=true" alt="GitHub Stats">
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadybad&layout=compact&bg_color=00000000&title_color=14B8A6&text_color=CBD5E1&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true" alt="Top Languages">
+  </p>
+</details>
 
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-  ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat)
-  ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-  ![Polars](https://img.shields.io/badge/-Polars-CD342C?style=flat)
-  ![yfinance](https://img.shields.io/badge/-yfinance-6001D2?logo=yahoo&logoColor=white&style=flat)
+---
 
-**Automation & Platforms**
+**Let’s Build**
+- Email: bpshay13@gmail.com
+- LinkedIn: linkedin.com/in/brandonpshay/
+- Open to full‑time roles and selective consulting.
 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+---
 
-**Developer Flow**
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white&style=flat)
-![Make](https://img.shields.io/badge/-Make-000000?style=flat)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Observability](https://img.shields.io/badge/-Logging_%26_Metrics-55606E?style=flat)
-
-## GitHub Signals
-
-<p align="center">
-  <img width="48%" src="http://github-readme-stats-sigma-five.vercel.app/api?username=shadybad&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">
-  <img width="48%" src="http://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadybad&layout=compact&theme=react&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true" alt="Top Languages">
-</p>
-
-## Let's Build
-
-- Connect on [LinkedIn](https://www.linkedin.com/in/brandonpshay/) for collaborations or opportunities.
-- Browse the rest of the repos below—PRs, ideas, and feedback are always welcome.
+<h3 id="case-studies">Case Studies</h3>
+- NotionIQ — docs/case-studies/notioniq.md
+- Fantasy Draft Tools — docs/case-studies/ff-draft-tools.md
+- Intrinsic Value Calculator — docs/case-studies/intrinsic-value.md

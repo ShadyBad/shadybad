@@ -10,26 +10,6 @@ Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning f
 [![Location](https://img.shields.io/badge/Orange_County-CA-3b3b3b?style=flat-square)](https://maps.google.com)
 [![Status](https://img.shields.io/badge/Open_to-AI_Engineer_roles-1f8a5b?style=flat-square)](#hiring)
 
-## Currently Building
-
-### `auto-co` Agent OS with Engineer-in-the-Loop
-Flagship project. Autonomous task graph for long-running engineering work, with a hard human-approval gate on every irreversible action. The agent never commits code on its own.
-
-**Why it's interesting:** LLM-judge eval harness gates every release. Regressions on plan quality, tool-call faithfulness, and cost-per-task block merge.
-**Stack:** Python 3.12 · LangGraph · FastAPI · Supabase · Claude API · PostHog · Langfuse
-**Architecture:** Reversible-by-default state machine; full session replay via Langfuse traces.
-
-### `NotionIQ` LLM workspace auditor
-Scans a Notion workspace, classifies content with Claude, and emits health metrics + actionable cleanup playbooks.
-
-Multi-provider LLM orchestration with safe fallbacks; cached runs cut API spend significantly.
-Typed Python, JSON-reportable outputs, zero-config quickstart.
-
-### `margin-invest` Deterministic equity scoring
-Portfolio piece. Beneish M-Score · Altman Z-Score · five-factor analysis · 13F overlays · Kelly sizing.
-
-FastAPI + Supabase, fully typed, reproducible outputs from the same input vector every time.
-
 ## Stack
 
 **Core AI/ML**

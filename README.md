@@ -1,99 +1,84 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/brandonpshay/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-14B8A6?labelColor=0F172A&logo=linkedin&logoColor=white&style=flat">
-  </a>&nbsp;
-  <a href="mailto:bpshay13@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-bpshay13%40gmail.com-14B8A6?labelColor=0F172A&logo=gmail&logoColor=white&style=flat">
-  </a>&nbsp;
-  <a href="https://github.com/shadybad">
-    <img src="https://img.shields.io/github/followers/shadybad?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  I build AI copilots, intelligent analytics, and automation that ship.<br/>
-  Pragmatic systems, clean interfaces, measurable outcomes.
-</p>
+# Brandon Shay
 
-<p align="center">
-  <em>Recent work:</em> LLM workspace audits • consensus draft analytics • live‑market valuation pipelines
-</p>
+**AI Engineer — building production GenAI systems with evals, types, and human-in-the-loop guardrails.**
 
-**What I Do**
-- AI copilots that take action (multi‑provider, safe fallbacks, observability)
-- Decision‑support analytics (aggregation, ranking, reporting, exports)
-- Production ML/MLOps (containers, CI, metrics, reproducible pipelines)
+Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning full-time into AI engineering. I ship typed Python, instrumented pipelines, and agents that earn their autonomy.
 
-**Selected Work**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonpshay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonpshay)
+[![Location](https://img.shields.io/badge/Orange_County-CA-3b3b3b?style=flat-square)](https://maps.google.com)
+[![Status](https://img.shields.io/badge/Open_to-AI_Engineer_roles-1f8a5b?style=flat-square)](#hiring)
 
-<a href="https://github.com/ShadyBad/notionIQ"><h3>NotionIQ — LLM Workspace Auditor</h3></a>
-<picture>
-  <source srcset="assets/notioniq-demo.gif" type="image/gif">
-  <img src="assets/notioniq-demo.png" alt="NotionIQ — multi‑provider orchestration, health metrics, JSON reporting" width="100%" loading="lazy">
-</picture>
+</div>
 
-- Problem → Fragmented pages, inbox bloat, duplicative databases slow teams.
-- Approach → Multi‑provider LLM orchestration (Claude/GPT/Gemini), deep health metrics, JSON reports.
-- Impact → Actionable playbooks; cached runs cut API spend significantly.
-- Docs → See case study below.
+---
 
-<a href="https://github.com/ShadyBad/ff_draft_tools"><h3>Fantasy Draft Tools — Consensus + VBD Engine</h3></a>
-<picture>
-  <source srcset="assets/ff-draft-tools-demo.gif" type="image/gif">
-  <img src="assets/ff-draft-tools-demo.png" alt="Fantasy Draft Tools — multi‑source aggregation, VBD logic, exports" width="100%" loading="lazy">
-</picture>
+## Currently Building
 
-- Problem → Fragmented rankings and noisy advice; hard cross‑positional calls.
-- Approach → Aggregates 5+ sources, VBD (VOLS/VORP/BEER), presets, offline caching.
-- Impact → Calm draft day with reproducible boards + Sheets/CSV exports.
-- Docs → See case study below.
+### `auto-co` — Agent OS with Engineer-in-the-Loop
+Flagship project. Autonomous task graph for long-running engineering work, with a hard human-approval gate on every irreversible action — the agent never commits code on its own.
 
-<a href="https://github.com/ShadyBad/intrinsic-value-calculator"><h3>Intrinsic Value Calculator — Live DCF at Scale</h3></a>
-<picture>
-  <source srcset="assets/intrinsic-value-demo.gif" type="image/gif">
-  <img src="assets/intrinsic-value-demo.png" alt="Intrinsic Value Calculator — live ingestion, parallel valuation, investor reports" width="100%" loading="lazy">
-</picture>
+- **Why it's interesting:** LLM-judge eval harness gates every release. Regressions on plan quality, tool-call faithfulness, and cost-per-task block merge.
+- **Stack:** Python 3.12 · LangGraph · FastAPI · Supabase · Claude API · PostHog · Langfuse
+- **Architecture:** Reversible-by-default state machine; full session replay via Langfuse traces.
 
-- Problem → Ad‑hoc valuations lack consistency and auditability.
-- Approach → Live data (Yahoo, FRED), parallelized DCF, risk/growth adjustments.
-- Impact → Investor‑ready CSV/JSON outputs for dashboards and research.
-- Docs → See case study below.
+### `NotionIQ` — LLM workspace auditor
+Scans a Notion workspace, classifies content with Claude, and emits health metrics + actionable cleanup playbooks.
 
-**Operating Principles**
-- Speed with safety: fast loops, strong guards, reversible changes.
-- Observability first: logs, metrics, JSON artifacts; decisions are inspectable.
-- Simplicity scales: clear boundaries, predictable deployments.
-- User empathy: defaults that work, frictionless installs, readable reports.
+- Multi-provider LLM orchestration with safe fallbacks; cached runs cut API spend significantly.
+- Typed Python, JSON-reportable outputs, zero-config quickstart.
 
-**Writing & Resources**
-- Academy Orientation — docs/academy/orientation.md
-- Command‑Line Toolkit — docs/playbooks/command-line-toolkit.md
-- IDE & Environment Verification — docs/playbooks/ide-setup.md
-- Mathematics for AI — docs/foundations/math-for-ai.md
-- Python Essentials — docs/foundations/python-essentials.md
+### `margin-invest` — Deterministic equity scoring
+Portfolio piece. Beneish M-Score · Altman Z-Score · five-factor analysis · 13F overlays · Kelly sizing.
 
-<details>
-  <summary><strong>Toolbox</strong> (click to expand)</summary>
+- FastAPI + Supabase, fully typed, reproducible outputs from the same input vector every time.
 
-AI & Data: PyTorch • scikit‑learn • Hugging Face • pandas • NumPy • Polars  
-Platforms: Python • PowerShell • Bash • FastAPI • Streamlit • Docker • AWS  
-Dev Flow: Git • GitHub Actions • pytest • Make • VS Code
-</details>
+---
 
-<details>
-  <summary><strong>GitHub Signals</strong> (click to expand)</summary>
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shadybad&show_icons=true&bg_color=00000000&title_color=14B8A6&text_color=CBD5E1&icon_color=F59E0B&hide_border=true" alt="GitHub Stats">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadybad&layout=compact&bg_color=00000000&title_color=14B8A6&text_color=CBD5E1&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true" alt="Top Languages">
-  </p>
-</details>
+## Stack
 
-**Let’s Build**
-- Email: bpshay13@gmail.com
-- LinkedIn: linkedin.com/in/brandonpshay/
-- Open to full‑time roles and selective consulting.
+**Core AI/ML**
+![LangGraph](https://img.shields.io/badge/LangGraph-1c1c1c?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-0f172a?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1c1c1c?style=flat-square)
+![LLM_as_Judge](https://img.shields.io/badge/LLM--as--Judge-1c1c1c?style=flat-square)
 
-<h3 id="case-studies">Case Studies</h3>
-- NotionIQ — docs/case-studies/notioniq.md
-- Fantasy Draft Tools — docs/case-studies/ff-draft-tools.md
-- Intrinsic Value Calculator — docs/case-studies/intrinsic-value.md
+**Backend**
+![Python 3.12](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
+![uv](https://img.shields.io/badge/uv_(Astral)-261230?style=flat-square)
+
+**Infra & Ops**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7c3aed?style=flat-square&logo=fly.io&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
+![mypy + Ruff](https://img.shields.io/badge/mypy_strict_+_Ruff-2c2c2c?style=flat-square)
+
+---
+
+## Engineering Principles
+
+- **Eval-first.** Every GenAI project ships with an eval harness before it ships a feature. If you can't measure it, you can't trust it in production.
+- **Typed, modular Python.** `mypy --strict`, Ruff, no notebooks in main, no untyped public APIs. Code that's read more than it's run.
+- **Human-in-the-loop on irreversible actions.** Models propose; engineers commit. Reversible architecture by default — every action has an undo path.
+- **Observable by construction.** Langfuse traces, structured logs, cost + latency budgets. Debugging a production agent at 2am should not require new instrumentation.
+
+---
+
+<a id="hiring"></a>
+
+## Hiring
+
+**Open to full-time AI Engineer roles** at AI labs, infra companies, and Series B–D startups shipping LLM products.
+
+- **LinkedIn:** [linkedin.com/in/brandonpshay](https://linkedin.com/in/brandonpshay)
+- **GitHub:** [@ShadyBad](https://github.com/ShadyBad)
+- **Based in:** Orange County, CA — open to remote, hybrid, or relocation for the right team.

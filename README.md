@@ -2,7 +2,7 @@
 
 # Brandon Shay
 
-**AI Engineer — building production GenAI systems with evals, types, and human-in-the-loop guardrails.**
+**AI Engineer building production GenAI systems with evals, types, and human-in-the-loop guardrails.**
 
 Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning full-time into AI engineering. I ship typed Python, instrumented pipelines, and agents that earn their autonomy.
 
@@ -12,23 +12,23 @@ Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning f
 
 ## Currently Building
 
-### `auto-co` — Agent OS with Engineer-in-the-Loop
-Flagship project. Autonomous task graph for long-running engineering work, with a hard human-approval gate on every irreversible action — the agent never commits code on its own.
+### `auto-co` Agent OS with Engineer-in-the-Loop
+Flagship project. Autonomous task graph for long-running engineering work, with a hard human-approval gate on every irreversible action. The agent never commits code on its own.
 
-- **Why it's interesting:** LLM-judge eval harness gates every release. Regressions on plan quality, tool-call faithfulness, and cost-per-task block merge.
-- **Stack:** Python 3.12 · LangGraph · FastAPI · Supabase · Claude API · PostHog · Langfuse
-- **Architecture:** Reversible-by-default state machine; full session replay via Langfuse traces.
+**Why it's interesting:** LLM-judge eval harness gates every release. Regressions on plan quality, tool-call faithfulness, and cost-per-task block merge.
+**Stack:** Python 3.12 · LangGraph · FastAPI · Supabase · Claude API · PostHog · Langfuse
+**Architecture:** Reversible-by-default state machine; full session replay via Langfuse traces.
 
-### `NotionIQ` — LLM workspace auditor
+### `NotionIQ` LLM workspace auditor
 Scans a Notion workspace, classifies content with Claude, and emits health metrics + actionable cleanup playbooks.
 
-- Multi-provider LLM orchestration with safe fallbacks; cached runs cut API spend significantly.
-- Typed Python, JSON-reportable outputs, zero-config quickstart.
+Multi-provider LLM orchestration with safe fallbacks; cached runs cut API spend significantly.
+Typed Python, JSON-reportable outputs, zero-config quickstart.
 
-### `margin-invest` — Deterministic equity scoring
+### `margin-invest` Deterministic equity scoring
 Portfolio piece. Beneish M-Score · Altman Z-Score · five-factor analysis · 13F overlays · Kelly sizing.
 
-- FastAPI + Supabase, fully typed, reproducible outputs from the same input vector every time.
+FastAPI + Supabase, fully typed, reproducible outputs from the same input vector every time.
 
 ## Stack
 
@@ -58,10 +58,10 @@ Portfolio piece. Beneish M-Score · Altman Z-Score · five-factor analysis · 13
 
 ## Engineering Principles
 
-- **Eval-first.** Every GenAI project ships with an eval harness before it ships a feature. If you can't measure it, you can't trust it in production.
-- **Typed, modular Python.** `mypy --strict`, Ruff, no notebooks in main, no untyped public APIs. Code that's read more than it's run.
-- **Human-in-the-loop on irreversible actions.** Models propose; engineers commit. Reversible architecture by default — every action has an undo path.
-- **Observable by construction.** Langfuse traces, structured logs, cost + latency budgets. Debugging a production agent at 2am should not require new instrumentation.
+**Eval-first.** Every GenAI project ships with an eval harness before it ships a feature. If you can't measure it, you can't trust it in production.
+**Typed, modular Python.** `mypy --strict`, Ruff, no notebooks in main, no untyped public APIs. Code that's read more than it's run.
+**Human-in-the-loop on irreversible actions.** Models propose; engineers commit. Reversible architecture by default. Every action has an undo path.
+**Observable by construction.** Langfuse traces, structured logs, cost + latency budgets. Debugging a production agent at 2am should not require new instrumentation.
 
 <a id="hiring"></a>
 

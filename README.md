@@ -10,10 +10,6 @@ Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning f
 [![Location](https://img.shields.io/badge/Orange_County-CA-3b3b3b?style=flat-square)](https://maps.google.com)
 [![Status](https://img.shields.io/badge/Open_to-AI_Engineer_roles-1f8a5b?style=flat-square)](#hiring)
 
-</div>
-
----
-
 ## Currently Building
 
 ### `auto-co` — Agent OS with Engineer-in-the-Loop
@@ -33,8 +29,6 @@ Scans a Notion workspace, classifies content with Claude, and emits health metri
 Portfolio piece. Beneish M-Score · Altman Z-Score · five-factor analysis · 13F overlays · Kelly sizing.
 
 - FastAPI + Supabase, fully typed, reproducible outputs from the same input vector every time.
-
----
 
 ## Stack
 
@@ -62,16 +56,12 @@ Portfolio piece. Beneish M-Score · Altman Z-Score · five-factor analysis · 13
 ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
 ![mypy + Ruff](https://img.shields.io/badge/mypy_strict_+_Ruff-2c2c2c?style=flat-square)
 
----
-
 ## Engineering Principles
 
 - **Eval-first.** Every GenAI project ships with an eval harness before it ships a feature. If you can't measure it, you can't trust it in production.
 - **Typed, modular Python.** `mypy --strict`, Ruff, no notebooks in main, no untyped public APIs. Code that's read more than it's run.
 - **Human-in-the-loop on irreversible actions.** Models propose; engineers commit. Reversible architecture by default — every action has an undo path.
 - **Observable by construction.** Langfuse traces, structured logs, cost + latency budgets. Debugging a production agent at 2am should not require new instrumentation.
-
----
 
 <a id="hiring"></a>
 

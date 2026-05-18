@@ -69,6 +69,6 @@ FastAPI + Supabase, fully typed, reproducible outputs from the same input vector
 
 **Open to full-time AI Engineer roles** at AI labs, infra companies, and Series B–D startups shipping LLM products.
 
-- **LinkedIn:** [linkedin.com/in/brandonpshay](https://linkedin.com/in/brandonpshay)
-- **GitHub:** [@ShadyBad](https://github.com/ShadyBad)
-- **Based in:** Orange County, CA — open to remote, hybrid, or relocation for the right team.
+**LinkedIn:** [linkedin.com/in/brandonpshay](https://linkedin.com/in/brandonpshay)
+**GitHub:** [@ShadyBad](https://github.com/ShadyBad)
+**Based in:** Orange County, CA — open to remote, hybrid, or relocation for the right team.

@@ -4,7 +4,7 @@
 
 **AI Engineer building production GenAI systems with evals, types, and human-in-the-loop guardrails.**
 
-Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning full-time into AI engineering. I ship typed Python, instrumented pipelines, and agents that earn their autonomy.
+Enterprise IT Systems Engineer (GCP, Workato, Workspace) transitioning full-time into AI engineering. I ship typed Python, instrumented pipelines, and agents that earn their autonomy.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonpshay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonpshay)
 [![Location](https://img.shields.io/badge/Orange_County-CA-3b3b3b?style=flat-square)](https://maps.google.com)
@@ -21,7 +21,7 @@ Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning f
 ![LLM_as_Judge](https://img.shields.io/badge/LLM--as--Judge-1c1c1c?style=flat-square)
 
 **Backend**
-![Python 3.12](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
@@ -45,10 +45,6 @@ Enterprise systems engineer (GCP, Workato, Workspace at Alation) transitioning f
 
 <a id="hiring"></a>
 
-## Hiring
-
-**Open to full-time AI Engineer roles** at AI labs, infra companies, and Series B–D startups shipping LLM products.
-
 **LinkedIn:** [linkedin.com/in/brandonpshay](https://linkedin.com/in/brandonpshay)
 **GitHub:** [@ShadyBad](https://github.com/ShadyBad)
-**Based in:** Orange County, CA — open to remote, hybrid, or relocation for the right team.
+**Based in:** Orange County, CA

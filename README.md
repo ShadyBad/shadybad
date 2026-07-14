@@ -42,9 +42,3 @@ Enterprise IT Systems Engineer (GCP, Workato, Workspace) transitioning full-time
 **Typed, modular Python.** `mypy --strict`, Ruff, no notebooks in main, no untyped public APIs. Code that's read more than it's run.
 **Human-in-the-loop on irreversible actions.** Models propose; engineers commit. Reversible architecture by default. Every action has an undo path.
 **Observable by construction.** Langfuse traces, structured logs, cost + latency budgets. Debugging a production agent at 2am should not require new instrumentation.
-
-<a id="hiring"></a>
-
-**LinkedIn:** [linkedin.com/in/brandonpshay](https://linkedin.com/in/brandonpshay)
-**GitHub:** [@ShadyBad](https://github.com/ShadyBad)
-**Based in:** Orange County, CA

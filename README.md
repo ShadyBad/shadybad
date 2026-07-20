@@ -1,20 +1,16 @@
-<p align="center">
-  <img src="assets/readme/hero.gif" width="100%" alt="Brandon Shay — AI Engineer building production GenAI systems that earn their autonomy. Beside the title, an agent loop: typed input, the agent proposes, an eval gate scores it, a human approves, the engineer commits, and every action stays reversible.">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/brandonpshay"><img alt="LinkedIn — brandonpshay" src="https://img.shields.io/badge/LinkedIn-brandonpshay-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://maps.google.com"><img alt="Orange County, CA" src="https://img.shields.io/badge/Orange_County-CA-3b3b3b?style=flat-square"></a>
-  <a href="#hiring"><img alt="Open to AI Engineer roles" src="https://img.shields.io/badge/Open_to-AI_Engineer_roles-1f8a5b?style=flat-square"></a>
-</p>
+# Brandon Shay
 
-<p align="center">
-  <sub>Enterprise IT Systems Engineer (GCP, Workato, Workspace) transitioning full-time into AI engineering.<br>I ship typed Python, instrumented pipelines, and agents that earn their autonomy.</sub>
-</p>
+**AI Engineer building production GenAI systems with evals, types, and human-in-the-loop guardrails.**
 
-<br>
+Enterprise IT Systems Engineer (GCP, Workato, Workspace) transitioning full-time into AI engineering. I ship typed Python, instrumented pipelines, and agents that earn their autonomy.
 
-<img src="assets/readme/section-stack.svg" width="100%" alt="Stack — production tools, AI/ML through to infrastructure">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonpshay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonpshay)
+[![Location](https://img.shields.io/badge/Orange_County-CA-3b3b3b?style=flat-square)](https://maps.google.com)
+[![Status](https://img.shields.io/badge/Open_to-AI_Engineer_roles-1f8a5b?style=flat-square)](#hiring)
+
+## Stack
 
 **Core AI/ML**
 ![LangGraph](https://img.shields.io/badge/LangGraph-1c1c1c?style=flat-square)
@@ -40,14 +36,9 @@
 ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
 ![mypy + Ruff](https://img.shields.io/badge/mypy_strict_+_Ruff-2c2c2c?style=flat-square)
 
-<br>
-
-<img src="assets/readme/section-principles.svg" width="100%" alt="Engineering Principles — how I ship production GenAI">
+## Engineering Principles
 
 **Eval-first.** Every GenAI project ships with an eval harness before it ships a feature. If you can't measure it, you can't trust it in production.
-
 **Typed, modular Python.** `mypy --strict`, Ruff, no notebooks in main, no untyped public APIs. Code that's read more than it's run.
-
 **Human-in-the-loop on irreversible actions.** Models propose; engineers commit. Reversible architecture by default. Every action has an undo path.
-
 **Observable by construction.** Langfuse traces, structured logs, cost + latency budgets. Debugging a production agent at 2am should not require new instrumentation.

@@ -1,11 +1,6 @@
 # Docs
 
-Curated writing and case studies supporting the portfolio.
-
-## Case Studies
-- NotionIQ — case-studies/notioniq.md
-- Fantasy Draft Tools — case-studies/ff-draft-tools.md
-- Intrinsic Value Calculator — case-studies/intrinsic-value.md
+Curated writing supporting the portfolio.
 
 ## Foundations
 - Academy Orientation — academy/orientation.md

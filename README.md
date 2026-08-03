@@ -13,17 +13,11 @@ Enterprise IT Systems Engineer (GCP, Workato, Workspace) transitioning full-time
 ## Stack
 
 **Core AI/ML**
-![LangGraph](https://img.shields.io/badge/LangGraph-1c1c1c?style=flat-square)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-0f172a?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1c1c1c?style=flat-square)
-![LLM_as_Judge](https://img.shields.io/badge/LLM--as--Judge-1c1c1c?style=flat-square)
 
 **Backend**
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![uv](https://img.shields.io/badge/uv_(Astral)-261230?style=flat-square)
@@ -32,7 +26,6 @@ Enterprise IT Systems Engineer (GCP, Workato, Workspace) transitioning full-time
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-7c3aed?style=flat-square&logo=fly.io&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
 ![mypy + Ruff](https://img.shields.io/badge/mypy_strict_+_Ruff-2c2c2c?style=flat-square)
 

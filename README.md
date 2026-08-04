@@ -1,7 +1,5 @@
 <div align="center">
 
-# Brandon Shay
-
 **AI Engineer building production GenAI systems with evals, types, and human-in-the-loop guardrails.**
 
 Enterprise IT Systems Engineer (GCP, Workato, Workspace) transitioning full-time into AI engineering. I ship typed Python, instrumented pipelines, and agents that earn their autonomy.
